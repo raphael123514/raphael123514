@@ -4,7 +4,6 @@
 
 - 🔭 Hoje trabalho como fullstack utilizando PHP usando o framework Laravel no back e no front HTML, CSS, Javascript, Jquery e Bootstrap
 - 🌱 Estou estudando React e React Native
-- 📫 Para entrar em contato: raphael.fonsec@hotmail.com
 
 
 
