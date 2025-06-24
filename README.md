@@ -18,8 +18,8 @@
   <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rapha-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Rapha-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Rapha-laravel" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg">
+  <img align="center" alt="Rapha-php" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   
 </div>
   
