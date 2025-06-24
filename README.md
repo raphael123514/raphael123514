@@ -25,11 +25,14 @@
   
  ##
   
- <div>
-   <a href = "mailto:raphael.fonsec@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  <a href = "mailto:raphael.fonsec@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-fonseca-483980143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <img src="https://raw.githubusercontent.com/raphael123514/raphael123514/output/snake.svg" alt="Snake animation" />
 </div
+<div>
+  <img src="https://raw.githubusercontent.com/raphael123514/raphael123514/output/snake.svg" alt="Snake animation" />
+  
+</div>
 
 
